@@ -13,7 +13,7 @@
 💬 Ask me about JavaScript, Typescript, React, Node.js, or web development best practices!
 
 ### 🌐 Personal Website
-[![Website](https://img.shields.io/badge/Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/Visit%20My%20Website-white?style=for-the-badge&logo=google-chrome)](https://mdefryan.vercel.app)
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
