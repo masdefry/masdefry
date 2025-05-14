@@ -13,7 +13,7 @@
 💬 Ask me about JavaScript, Typescript, React, Node.js, or web development best practices!
 
 ### 🌐 Personal Website
-[![Website](https://img.shields.io/badge/Visit%20My%20Website-white?style=for-the-badge&logo=google-chrome)](https://mdefryan.vercel.app)
+[![Website](https://img.shields.io/badge/Visit%20My%20Website-F2F2F2?style=for-the-badge&logo=google-chrome)](https://mdefryan.vercel.app)
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,6 +23,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-red?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-green?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=masdefry&show_icons=true&theme=tokyonight" />
