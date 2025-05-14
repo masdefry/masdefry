@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Defryan</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+<h1 align="left">Hi 👋, I'm Defryan</h1>
 
 - 🔭 I’m currently working on [MyProject](https://github.com/Abdi-01/MyProject)
 - 🌱 I’m currently learning TypeScript, Docker, and more
