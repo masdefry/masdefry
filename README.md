@@ -8,14 +8,14 @@
   <b>If you're looking for a web development mentor, or if you're interested in collaborating on exciting projects, feel free to reach out!</b>
 </p>
 
-- 🔭 I’m currently working on [MyProject](https://github.com/Abdi-01/MyProject)
-- 🌱 I’m currently learning TypeScript, Docker, and more
-- 💬 Ask me about JavaScript, React, Node.js
+🔭 I’m currently working on various web-based application projects, focusing on both frontend and backend development.
+
+💬 Ask me about JavaScript, Typescript, React, Node.js, or web development best practices!
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=masdefry&show_icons=true&theme=tokyonight" />
