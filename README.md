@@ -1,5 +1,11 @@
 <h1 align="left">Hello, I'm Defryan👋</h1>
 
+<p>
+  A full-stack web developer based in Indonesia with four years of teaching experience. 
+  Teach various web development courses, focusing on both frontend and backend technologies. My aim is to provide students with a strong foundation in web development principles, best practices,    and the latest industry trends.
+  Frequently involved in developing web-based application projects using the latest tech stacks.
+</p>
+
 - 🔭 I’m currently working on [MyProject](https://github.com/Abdi-01/MyProject)
 - 🌱 I’m currently learning TypeScript, Docker, and more
 - 💬 Ask me about JavaScript, React, Node.js
