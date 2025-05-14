@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Node.js](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=node.js&logoColor=green)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ### 📊 GitHub Stats
 <p align="center">
