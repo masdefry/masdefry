@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Defryan</h1>
+<h1 align="left">Hello, I'm Defryan👋</h1>
 
 - 🔭 I’m currently working on [MyProject](https://github.com/Abdi-01/MyProject)
 - 🌱 I’m currently learning TypeScript, Docker, and more
