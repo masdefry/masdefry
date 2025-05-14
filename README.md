@@ -13,9 +13,13 @@
 💬 Ask me about JavaScript, Typescript, React, Node.js, or web development best practices!
 
 ### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=node.js&logoColor=green)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-green?style=for-the-badge&logo=mysql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-red?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-green?style=for-the-badge&logo=express&logoColor=white)
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=masdefry&show_icons=true&theme=tokyonight" />
